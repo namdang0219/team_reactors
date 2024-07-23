@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/namdang0219/team_reactors/static/css/main.20069a09.css",
+    "main.js": "/namdang0219/team_reactors/static/js/main.616b3327.js",
+    "static/js/453.3e579acf.chunk.js": "/namdang0219/team_reactors/static/js/453.3e579acf.chunk.js",
+    "static/media/about-main-img.jpg": "/namdang0219/team_reactors/static/media/about-main-img.bac48fa2b2b226eb7e0e.jpg",
+    "static/media/rekiteku-logo-white.svg": "/namdang0219/team_reactors/static/media/rekiteku-logo-white.141002af2bd80c889f7a5eb0d7ad0fba.svg",
+    "static/media/rekiteku-logo.svg": "/namdang0219/team_reactors/static/media/rekiteku-logo.bd5350d7ad8f3351312fba18ff5bdb3e.svg",
+    "static/media/Instagram logo.svg": "/namdang0219/team_reactors/static/media/Instagram logo.f1c0356ec922c809066ffa6cab887160.svg",
+    "static/media/Note Logo.svg": "/namdang0219/team_reactors/static/media/Note Logo.c19df8fbbb83fb2ee7ee04e41f865a81.svg",
+    "static/media/note-link.svg": "/namdang0219/team_reactors/static/media/note-link.71a710b0d4a310b7e700f0c04c9f7d33.svg",
+    "index.html": "/namdang0219/team_reactors/index.html",
+    "static/media/Facebook logo.svg": "/namdang0219/team_reactors/static/media/Facebook logo.278e6214681020120907298b7016c648.svg",
+    "static/media/X logo.svg": "/namdang0219/team_reactors/static/media/X logo.281cfd6a662fa99c69e51a6298b6ba75.svg",
+    "main.20069a09.css.map": "/namdang0219/team_reactors/static/css/main.20069a09.css.map",
+    "main.616b3327.js.map": "/namdang0219/team_reactors/static/js/main.616b3327.js.map",
+    "453.3e579acf.chunk.js.map": "/namdang0219/team_reactors/static/js/453.3e579acf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20069a09.css",
+    "static/js/main.616b3327.js"
+  ]
+}
